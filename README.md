@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh Baviskar</h1>
-<h3 align="center">A Computer Science student at Pune Institute of Computer Technology.</h3>
+<h3 align="center">A Computer Engineer student at Pune Institute of Computer Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baviskarmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="baviskarmahesh" /> </p>
 
