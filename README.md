@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baviskarmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="baviskarmahesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baviskarmahesh" alt="baviskarmahesh" /></a> </p>
-
 - 💬 Ask me about **Flutter,Java.**
 
 - 📫 How to reach me **maheshbaviskar980@gmail.com**
